@@ -16,7 +16,7 @@ To run this code, follow these steps:
 
 ## Author
 
-Created by: Karan Nagpal
+Created by: gurpreet yadav
 
 ## License
 
